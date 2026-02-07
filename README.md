@@ -9,8 +9,7 @@ I specialize in **MongoDB, Express.js, React, Node.js, and Next.js**, focusing o
 🔹 Comfortable with both **SSR (SEO-optimized)** and SPA architectures  
 
 👉 **Live Portfolio:**  
-🔗 https://shahzaibgulfraz-cs-portfolio.vercel.app/
-
+🔗 [Visit My Official Portfolio - Shahzaib Gulfraz](https://shahzaibgulfraz-cs-portfolio.vercel.app/)
 ---
 
 ## 🚀 Core Skills & Expertise (MERN Stack)
